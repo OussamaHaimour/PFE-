@@ -1,0 +1,8 @@
+Flask
+numpy
+scikit-learn
+scipy
+joblib
+kafka-python
+python-dotenv
+requests
